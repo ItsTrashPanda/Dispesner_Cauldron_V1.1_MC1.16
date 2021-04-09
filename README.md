@@ -8,3 +8,4 @@ As far as I can tell this has no bugs, I do not foresee myself updating this unl
 I really could care less about this. I put very little effort into it, so little that I didn't put any formal copyright on this so... just don't steal it. 
 
 # If you like it please share it with your friends!
+Here is Planet Minecraft Link, so like it I guess: https://www.planetminecraft.com/data-pack/dispenser-cauldron-v1-1/
