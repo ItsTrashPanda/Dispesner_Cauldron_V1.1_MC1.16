@@ -1,0 +1,2 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:bucket"}}] at @s if block ~ ~ ~ cauldron[level=3] align xyz run function discauldron:checkfordisfillwater
+execute as @e[type=item,nbt={Item:{id:"minecraft:water_bucket"}}] at @s if block ~ ~ ~ cauldron[level=0] align xyz run function discauldron:checkfordisdrainwater
